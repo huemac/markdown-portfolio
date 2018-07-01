@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Clone replicant
+* Raptor cage mantainer
+  * In charge of baby raptors training
+  * Show routine planner
